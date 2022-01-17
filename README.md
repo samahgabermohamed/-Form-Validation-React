@@ -1,4 +1,3 @@
-#Log In and Registration Forms Validation using React
 #Introduction
 This repository has forms validation for log in and registration forms that will be inserted into wider React projects in the future
 
