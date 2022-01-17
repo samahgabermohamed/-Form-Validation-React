@@ -1,0 +1,10 @@
+.pass {
+  position: relative;
+}
+.eye-icon {
+  width: 2vw;
+  cursor: pointer;
+  position: absolute;
+  top: 6%;
+  right: 3%;
+}
